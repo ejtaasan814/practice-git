@@ -11,5 +11,8 @@
 
   <div>This is a branch with div</div>
   <div>This is a branch with div</div>
+
+
+  <footer>This is a footer</footer>
 </body>
 </html>
