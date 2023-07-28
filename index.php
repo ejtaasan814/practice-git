@@ -9,7 +9,6 @@
 <body>
   <h1>This is a master branch</h1>
 
-  <a href="/">This is a href branch</a>
-  <a href="/">New feature href</a>
+  <a>Change request sample</a>
 </body>
 </html>
