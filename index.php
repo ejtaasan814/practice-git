@@ -9,6 +9,6 @@
 <body>
   <h1>This is a master branch</h1>
 
-  <div>This is a branch with div</div>
+  <a href="/">This is a href branch</a>
 </body>
 </html>
